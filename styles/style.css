@@ -1,0 +1,146 @@
+* {
+    margin: 0;
+}
+
+/* Banner Section */
+.header {
+    background-image: url(../images/banner/banner1.png);
+    background-repeat: no-repeat;
+    background-position: bottom right, left;
+    background-size: auto, 100px 600px;
+    width: 1600px;
+    height: 808px;
+    left: 1600px;
+    top: 808px;
+    margin-bottom: 131px;
+}
+
+.banner-main-text {
+    margin-left: 1023px;
+    padding: 50px;
+    margin-top: 50px;
+    padding-top: 250px;
+    font-weight: 700;
+    font-size: 29px;
+    color: #151414;
+
+}
+
+.banner-description {
+    margin-top: 24px;
+    color: #444343;
+    font-weight: 400;
+    font-size: 16px;
+    margin-bottom: 30px;
+}
+
+.btn-primary {
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 20px;
+    height: 64px;
+    border-radius: 5px;
+    background: #FD6E0A;
+    border: none;
+    padding: 18px 36px;
+    margin-left: 263px;
+
+}
+
+/* Main Section */
+/* Previous year failure */
+/* .failure-section{
+    margin-bottom: ;
+
+} */
+.picture {
+    margin-left: 85px;
+}
+
+.previous-year-failure {
+    display: flex;
+    gap: 87px;
+    align-items: center;
+    margin-bottom: 130px;
+
+}
+
+.failure-text {
+    padding-right: 322px;
+}
+
+.failure-title {
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+    margin-bottom: 24px;
+}
+
+.failure-description {
+    font-weight: 400;
+    font-size: 16px;
+    color: #151414;
+    margin-bottom: 24px;
+
+}
+
+/* My plans */
+.my-plans {
+    margin-bottom: 130px;
+}
+
+.plan-container {
+    display: flex;
+    gap: 99px;
+    margin-left: 240px;
+}
+
+.plan-title {
+    font-weight: 700;
+    font-size: 20px;
+    color: #151414;
+}
+
+.plan-description {
+    font-weight: 500px;
+    font-size: 15px;
+    color: #737272;
+}
+
+.title-text {
+    margin-bottom: 55.7px;
+}
+
+/* picture gradient section */
+.picture-container {
+    margin-left: 296px;
+    border-radius: 8px;
+    background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%), url(../images/watch.png), url(../images/gradient2.png);
+    background-repeat: no-repeat;
+    width: 1140px;
+    height: 250px;
+    left: 230px;
+
+}
+
+.picture-title {
+    font-weight: 700;
+    font-size: 40px;
+    color: #FFFFFF;
+    padding-top: 59px;
+    padding-left: 64px;
+    margin-bottom: 24px;
+}
+
+.picture-button {
+    color: #F15B22;
+    font-weight: 600;
+    font-size: 20px;
+    border: none;
+    width: 160px;
+    height: 64px;
+    left: 294px;
+    top: 2399.26px;
+    margin-left: 64px;
+
+}
